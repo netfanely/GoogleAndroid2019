@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="desc">Image</string>
+    <string name="texto1">Ejemplo de imagenes utilizando la clase ImageView</string>
+</resources>
